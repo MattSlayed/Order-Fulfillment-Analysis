@@ -1,0 +1,17 @@
+Order Fulfillment Process Analysis
+
+Average Times (hours):
+ProcessingTime    24.413839
+ShippingTime      48.125552
+DeliveryTime      71.923336
+dtype: float64
+
+Bottlenecks (stages > 48 hours):
+ShippingTime    48.125552
+DeliveryTime    71.923336
+dtype: float64
+
+Recommendations:
+- Automate order processing to reduce time to <20 hours.
+- Partner with faster shipping providers to cut delivery time.
+- Communicate expected delivery times to improve satisfaction.
